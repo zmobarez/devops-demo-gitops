@@ -10,7 +10,7 @@ spec:
   project: default
 
   source:
-    repoURL: git@github.com:zmobarez/devops-demo-gitops.git
+    repoURL: https://github.com/zmobarez/devops-demo-gitops.git
     targetRevision: main
     path: manifests
 
